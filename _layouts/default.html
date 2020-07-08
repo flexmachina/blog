@@ -3,8 +3,10 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+    <!--
     <link rel="shortcut icon" href="https://synced.to/static/theme/assets/img/favicon.png?v=afc74">
-    
+    -->
+
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -14,7 +16,7 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,400i,600,600i,700,700i,900&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
     <script>
@@ -45,8 +47,9 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="https://synced.to" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
+          <!--
+          <a href="http://flexmachina.ai" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          -->
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Is the rectangle humanity's favourite shape?
+title: Humanity's favourite shape?
 img: images/2021-03-07-So-Many-Rectangles-1.jpg
 ---
 
-We've built them all around us  
+We've built rectangles all around us  
 
 ![_config.yml]({{ site.baseurl }}/images/2021-03-07-So-Many-Rectangles-1.jpg)
 *by [Dil](https://unsplash.com/photos/8OECtq8rrNg)*
@@ -22,6 +22,6 @@ Reading Kenya Hara's book, [*Designing Japan*](https://www.amazon.com/Designing-
 >
 > The circle is another shape we like...
 
-And on that cliffhanger I recommend you check out his book
+Personally I'm a fan of the capable yet humble rectangle
 
 Tejas 

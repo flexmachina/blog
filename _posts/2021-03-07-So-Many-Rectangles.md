@@ -10,7 +10,7 @@ Humanity's favourite shape?
 *by [Dil](https://unsplash.com/photos/8OECtq8rrNg)*
 
 
-While reading through Kenya Hara's book, *Designing Japan*, I quite enjoyed the author's observations on the abundance of rectangles in the world we've built around us. 
+While reading through Kenya Hara's book, [*Designing Japan*](https://www.amazon.com/Designing-Japan-Future-Built-Aesthetics/dp/4866580151), I quite enjoyed the author's observations on the abundance of rectangles in the world we've built around us. 
 
 > Everything around us has been designed. Drinking glasses, fluorescent lights, ballpoint pens, mobile phones, floor tiles, the arrangement of the holes in shower heads, the curls of instant noodles - in the sense of having been planned and produced, everything can be said to have been designed. Human beings form their environment by living. The real pleasure of design is in the process of awakening gradually to the multitude of accumulated insights interwoven with that environment. We see the world afresh when we grasp these threads, hitherto unnoticed.
 >
@@ -22,5 +22,6 @@ While reading through Kenya Hara's book, *Designing Japan*, I quite enjoyed the 
 >
 > The circle is another shape we like...
 
+And on that cliffhanger I recommend you check out his book!
 
 Tejas 
